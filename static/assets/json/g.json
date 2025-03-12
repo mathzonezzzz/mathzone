@@ -6,14 +6,14 @@
     "custom": "true"
   },
   {
-    "name": "! Interstellar FAQ/Docs",
+    "name": "placeholder",
     "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "https://docs.gointerstellar.app",
+    "link": "placeholder",
     "categories": ["all"]
   },
   {
-    "name": "! [NEW] Request A Game",
-    "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
+    "name": "placeholder",
+    "link": "placeholder",
     "image": "/assets/media/icons/request.webp",
     "categories": ["all"]
   },
