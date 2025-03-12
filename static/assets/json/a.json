@@ -6,15 +6,15 @@
     "custom": "true"
   },
   {
-    "name": "! Interstellar FAQ/Docs",
+    "name": "placeholder",
     "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "https://docs.gointerstellar.app",
+    "link": "placeholder",
     "categories": ["all"]
   },
   {
-    "name": "! [NEW] Request An App",
-    "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
-    "image": "/assets/media/icons/request.webp",
+    "name": "placeholder",
+    "link": "placeholder",
+    "image": "placeholder",
     "categories": ["all"]
   },
   {
