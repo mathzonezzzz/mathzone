@@ -429,7 +429,7 @@ function importSaveData() {
           });
         }
         alert('Your save data has been imported. Please test it out.')
-        alert('If you find any issues then report it in GitHub or the Interstellar Discord.')
+        alert('hmu if u find any issues (no blake I will not advertise your game on here.)')
       } catch (error) {
         console.error('Error parsing JSON file:', error);
       }
